@@ -1,0 +1,8 @@
+{
+  "name": "Dynamics-Style CRM",
+  "description": "A modern, enterprise-grade CRM application featuring sales pipeline management, customer tracking, and AI-powered creative tools for marketing assets using Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
